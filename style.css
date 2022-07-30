@@ -4,7 +4,7 @@ body {
     font-family: 'Oswald', sans-serif;
     /* font-family: 'Poppins', sans-serif; */
      /* background-color: #602263;  */
-     /* background-color: #1b1b53; */
+     /* background-color: #1b1b53;  */
 }
 .img-size {
     width: 100px;
@@ -31,4 +31,16 @@ body {
 .btn-buy-now {
     background-color: #4eefae;
     padding: 5px 25px;
+}
+.buy-now-submit {
+    background-color: #48cafd;
+    padding: 8px 40px;
+}
+
+.product-bg-info {
+    background-color: #9478daab;
+}
+
+.bg-modal {
+    background-color:#b2a7eb ;
 }
