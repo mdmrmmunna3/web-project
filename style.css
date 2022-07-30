@@ -4,7 +4,7 @@ body {
     font-family: 'Oswald', sans-serif;
     /* font-family: 'Poppins', sans-serif; */
      /* background-color: #602263;  */
-     /* background-color: #1b1b53;  */
+      /* background-color: #1b1b53;   */
 }
 .img-size {
     width: 100px;
@@ -47,4 +47,8 @@ body {
 
 .social-icons{
     margin-right: 2%;
+}
+
+.line {
+    line-height: 190%;
 }
