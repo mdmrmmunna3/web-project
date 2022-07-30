@@ -15,3 +15,13 @@ body {
 .imges{
     height: 550px;
 }
+
+.bg-img {
+    background-color: rgb(14, 14, 66);
+}
+.bg-imge {
+    background-color: rgb(177, 188, 192);
+}
+.bg-imges {
+    background-color: rgb(150, 53, 240);
+}
