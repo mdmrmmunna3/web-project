@@ -1,5 +1,17 @@
+/* google font  */
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Poppins:wght@400;500;600&display=swap');
+body {
+    font-family: 'Oswald', sans-serif;
+    /* font-family: 'Poppins', sans-serif; */
+}
 .img-size {
     width: 100px;
     height: 50px;
    
+}
+.bg-color {
+    background-color:#231054;
+}
+.imges{
+    height: 550px;
 }
